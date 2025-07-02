@@ -1,0 +1,21 @@
+# Core dependencies
+msal>=1.20.0
+requests>=2.25.0
+tenacity>=8.0.0
+
+# Optional dependencies for enhanced functionality
+# Install with: pip install -r requirements.txt
+# or: pip install DatabricksSharepointRestConnector[all]
+
+# Spark support (required for data source functionality)
+# pyspark>=3.4.0
+
+# Parquet processing support
+# pyarrow>=10.0.0
+
+# Development dependencies
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0

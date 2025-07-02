@@ -1,0 +1,2 @@
+[console_scripts]
+sharepoint-connector-test = databricks_sharepoint_connector.cli:main
